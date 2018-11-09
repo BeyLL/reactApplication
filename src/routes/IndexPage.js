@@ -5,7 +5,7 @@ import styles from './IndexPage.css';
 function IndexPage() {
   return (
     <div className={styles.normal}>
-     <h2>燕赵都市报</h2>
+     <h2>逼王鬼道</h2>
     </div>
   );
 }
